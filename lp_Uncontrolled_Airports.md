@@ -2,14 +2,14 @@
 
 ## Description
 ---
-    Describe operating around an uncontrolled airport in contrast to a towered airport
+Describe operating around an uncontrolled airport in contrast to a towered airport
 
 ## Time
-    00:20 minutes
+00:20 minutes
 
 ## Objectives
 ---
-    Describe at a high level how to identify an uncontrolled airport, how to taxi, depart, arrive and self-manage traffic flows as a pilot flying into an uncontrolled airport
+Describe at a high level how to identify an uncontrolled airport, how to taxi, depart, arrive and self-manage traffic flows as a pilot flying into an uncontrolled airport
 
 ## Elements
 ---
