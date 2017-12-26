@@ -58,5 +58,5 @@ typings/
 .env
 
 #Generated HTML files. HTML will be generated from MD source
-.html
+*.html
 
