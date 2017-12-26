@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+
+h1,h2,h3 {
+    color: royalblue;
+    font-family: "Courier New", Courier, monospace;
+    margin-left: 20px;
+} 
+
+p {
+    color:royalblue;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+}
+
+ul {
+    color: royalblue
+}
+
+a {
+    color: red
+}
+
+code {
+    color: royalblue;
+}
+
+table,td {
+    color: royalblue;
+}

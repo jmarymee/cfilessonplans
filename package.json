@@ -1,0 +1,19 @@
+{
+  "name": "cfilessonplans",
+  "version": "1.0.0",
+  "description": "CFI Initial - lesson plans in MD format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarymee/cfilessonplans.git"
+  },
+  "author": "JD Marymee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarymee/cfilessonplans/issues"
+  },
+  "homepage": "https://github.com/jmarymee/cfilessonplans#readme"
+}
