@@ -137,9 +137,48 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 
 ## **Task K: Power-Off 180 degree Accuracy Approach and Landing**
 
-# Fundamentals of Flight
+# VIII. Fundamentals of Flight
 ` Note: The examiner must select at least one Task`
 
 ## **Task A: Straight-and-Level Flight**
-
 ## **Task B: Level Turns**
+## **Task C: Straight Climbs and Climbing Turns**
+## **Task D: Straight Descents and Descending Turns**
+
+# IX. Performance Manuevers
+` Note: The examiner must select at least Tasks A or B and C or D`
+## **Task A: Steep Turns**
+## **Task B: Steep Spirals**
+## **Task C: Chandelles**
+## **Task D: Lazy Eights**
+
+# X. Ground Reference Manuevers
+` Note: The examiner must select Task D and one other Task`
+## **Task A: Rectangular Course**
+## **Task B: S-Turns across a Road**
+## **Task C: Turns Around a Point**
+## **Task D: Eights on Pylons**
+### References: FAA-H-8083-3, FAA-S-8081-12
+
+# XI. Slow Flight, Stalls and Spins
+` Note: The examiner must select at least one proficiency stall (Task B or C) , at least one demonstration stall (Task D, E F, or H) and Task G`
+## **Task A: Manuevering During Slow Flight**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task B: Power-On Stalls (Proficiency)**
+### References: AC 61-67; FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task C: Power-Off Stalls (Proficiency)**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **  Task D: Cross-Controlled Stalls (Deonstration)**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task E: Elevator Trim Stalls (Demonstration)**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task F: Secondary Stalls (Demonstration)**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task G: Spins**
+` Note: At the discretion of the examiner, a logbook record attesting applicant instructional competency in spin entries, spins, and spin recoveries may be accepted in lieu of this Task. The flight instructor who conducted the spin instruction must certify the logbook record`
+### References: 14 CFR part 2, Type Certificate Data Sheet, AC 61-67, FAA-H-8083-3, POH/AFM
+## **Task H: Accelerated Maneuver Stalls (Demonstration)**
+` Note: This Task must be completed by oral examination or demonstration at the discretion of the examiner`
+### References: FAA-H-8083-3, POH/AFM
+
+# XII. Basic Instrument Manuevers
