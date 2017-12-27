@@ -106,3 +106,40 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 ## **Task D: Taxxing**
 
 ## **Task G: Before Takeoff Check**
+
+# Airport and Seaplane Base Operations
+` Note: Examiner must select at least one Task`
+
+## **Task A: Radio Comunications and ATC Light Signals**
+
+## **Task B: Traffic Patterns**
+
+## **Task C: Airport, Runway and Taxiway Signs, Markings and Lighting
+
+# Takoffs, Landings and Go-Arounds
+` Note: The examiner must select at least two takeoffs and two landing tasks`
+
+## **Task A: Normal and Crosswind Takeoff and Climb**
+
+## **Task B: Short-Field Takeoff and Maximum Performance Climb**
+
+## **Task C: Soft-Field Takeoff and Climb**
+
+## **Task F: Normal and Crosswinmd Approach and Landing**
+
+## **Task G: Slip to a Landing**
+
+## **Task H: Go-Around/Rejected Landing**
+
+## **Task I: Short-Field Approach and Landing**
+
+## **Task J: Soft-Field Approach and Landing**
+
+## **Task K: Power-Off 180 degree Accuracy Approach and Landing**
+
+# Fundamentals of Flight
+` Note: The examiner must select at least one Task`
+
+## **Task A: Straight-and-Level Flight**
+
+## **Task B: Level Turns**
