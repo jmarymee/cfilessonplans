@@ -24,7 +24,8 @@
 15. Single-Pilot Resource Management (SRM)
 16. Other areas deemed appropriate to any phase of the practical test
 
-# Fundamentals of Instructing
+# I. Fundamentals of Instructing
+`Note: The examiner shall select Task E and one other Task`
 ## *Task A: Human Behavior and Effective Communication*
 Objective: To determine that the applicant exhibits instructional knowledge of human behavior and effective communication and how these impact effective learning by describing:
 1. Definitions of human behavior
@@ -34,112 +35,69 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 5. Basic elements of communication
 6. Barriers to effective communication
 7. Developing communication skills
-
 ## *Task B: The Learning Process*
-
 ## *Task C: The Teaching Process*
-
 ## *Task D: Assessment and Critique*
-
-## *Task E: Instructor Responsibilities and Professionalism** (REQUIRED) 
-
+## *Task E: Instructor Responsibilities and Professionalism* (REQUIRED) 
 ## *Task F: Techniques of Flight Instruction*
-
 ## *Task G: Risk Management*
 
-# Technical Subject Areas
+# II. Technical Subject Areas
 ` Note: The examiner must select Tasks B, M, and at least one other Task`
-
 ## **Task A: Aeromedical Factors**
-
 ## **Task B: Runway Incursion Avoidance**
-
 ## **Task C: Visual Scanning and Collision Avoidance**
-
 ## **Task D: Principles of Flight**
-
 ## **Task E: Airplane Flight Controls**
-
 ## **Task F: Airplane Weight and Balance**
-
 ## **Task G: Navigation and Flight Planning**
-
 ## **Task H: Night Operations**
-
 ## **Task I: High Altitude Operations**
-
 ## **Task J: 14 CFR and Publications**
-
 ## **Task K: National Airspace System**
-
 ## **Task L: Navigation Systems and Radar Services**
-
 ## **Task M: Logbook Entries and Certificate Endorsements**
 
-# Preflight Preparation
+# III. Preflight Preparation
 ` Note: The examiner must select at least one Task`
-
 ## **Task A: Certificates and Documents**
-
 ## **Task B: Weather Information**
-
 ## **Task C: Operation of Systems**
-
 ## **Task D: Performance and Limitations**
-
 ## **Task E: Airworthiness Requirements**
 
-# Preflight Lesson and a Manuever to be Performed in Flight
+# IV. Preflight Lesson and a Manuever to be Performed in Flight
 ` Note: Examiner must select at least one maneuver Task from Areas of Operation VII throguh XIII and ask the applicant to present a preflight lesson on the selected maneuver as the lesson would be taught to a student`
-
 ## **Task A: Maneuver Lesson**
 
-# Preflight Procedures
+# V. Preflight Procedures
 ` Note: The examiner must select at least one Task`
-
 ## **Task A: Preflight Inspection**
-
 ## **Task B: Cockpit Management**
-
 ## **Task C: Engine Starting**
-
 ## **Task D: Taxxing**
-
 ## **Task G: Before Takeoff Check**
 
-# Airport and Seaplane Base Operations
+# VI. Airport and Seaplane Base Operations
 ` Note: Examiner must select at least one Task`
-
 ## **Task A: Radio Comunications and ATC Light Signals**
-
 ## **Task B: Traffic Patterns**
-
 ## **Task C: Airport, Runway and Taxiway Signs, Markings and Lighting
 
-# Takoffs, Landings and Go-Arounds
+# VII. Takoffs, Landings and Go-Arounds
 ` Note: The examiner must select at least two takeoffs and two landing tasks`
-
 ## **Task A: Normal and Crosswind Takeoff and Climb**
-
 ## **Task B: Short-Field Takeoff and Maximum Performance Climb**
-
 ## **Task C: Soft-Field Takeoff and Climb**
-
 ## **Task F: Normal and Crosswinmd Approach and Landing**
-
 ## **Task G: Slip to a Landing**
-
 ## **Task H: Go-Around/Rejected Landing**
-
 ## **Task I: Short-Field Approach and Landing**
-
 ## **Task J: Soft-Field Approach and Landing**
-
 ## **Task K: Power-Off 180 degree Accuracy Approach and Landing**
 
 # VIII. Fundamentals of Flight
 ` Note: The examiner must select at least one Task`
-
 ## **Task A: Straight-and-Level Flight**
 ## **Task B: Level Turns**
 ## **Task C: Straight Climbs and Climbing Turns**
@@ -168,7 +126,7 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 ### References: AC 61-67; FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
 ## **Task C: Power-Off Stalls (Proficiency)**
 ### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
-## **  Task D: Cross-Controlled Stalls (Deonstration)**
+## **Task D: Cross-Controlled Stalls (Deonstration)**
 ### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
 ## **Task E: Elevator Trim Stalls (Demonstration)**
 ### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
@@ -182,3 +140,32 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 ### References: FAA-H-8083-3, POH/AFM
 
 # XII. Basic Instrument Manuevers
+` Note: The examiner must select at least one Task`
+## **Task A: Straight-and-Level Flight**
+### References: FAA-H-8083-3, FAA-H-8083-15, FAA-S-ACS-6
+## **Task B: Constant Airspeed Climbs**
+### References: FAA-H-8083-3, FAA-H-8083-15, FAA-S-ACS-6
+## **Task C: Constant Airspeed Descents**
+### References: FAA-H-8083-3, FAA-H-8083-15, FAA-S-ACS-6
+## **Task D: Turns to Headings**
+### References: FAA-H-8083-3, FAA-H-8083-15, FAA-S-ACS-6
+## **Task E: Recovery from Unusual Flight Attitudes**
+### References: FAA-H-8083-3, FAA-H-8083-15, FAA-S-ACS-6
+
+# XIII. Emergency Operations
+`Note: The examiner must select t least Tasks A and B`
+## **Task A: Emergency Approach and Landing (Simulated)
+`Note: The examiner must NOT simulate a power failure by placing the fuel selector in the “off” position or by placing the mixture control in the “idle-cutoff” position. No simulated emergency approach is to be continued below 500 feet AGL, unless over an area where a safe landing can be accomplished in compliance with 14 CFR part 91, section 91.119`
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task B: Systems and Equipment Malfunctions**
+`Note: The examiner must not simulate a system or equipment malfunction in a manner that may jeopardize safe flight or result in possible damage to the airplane`
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+## **Task C: Emergency Equipment and Survival Gear**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6, POH/AFM
+## **Task D: Emergency Descent**
+### References: FAA-H-8083-3, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
+
+# XIV. Postflight Procedures
+`Note: The examiner must select Task A and, for ASES applicants, at least one other Task`
+## **Task A: Postflight Procedures**
+###FAA-H-8083-3, FAA-H-8083-23, FAA-S-8081-12, FAA-S-ACS-6; POH/AFM
