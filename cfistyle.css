@@ -1,31 +1,13 @@
 body {
-    background-color: white;
+    background-color: black;
 }
 
-h1,h2,h3 {
-    color: royalblue;
-    font-family: "Courier New", Courier, monospace;
+h1,h2,h3,p,ul,ol,a,code,table,td,code {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 20px;
-} 
-
-p {
-    color:royalblue;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 30px;
-}
-
-ul {
-    color: royalblue
 }
 
 a {
-    color: red
-}
-
-code {
-    color: royalblue;
-}
-
-table,td {
-    color: royalblue;
+    color : red;
 }

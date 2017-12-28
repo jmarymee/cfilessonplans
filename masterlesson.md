@@ -26,7 +26,7 @@
 
 # I. Fundamentals of Instructing
 `Note: The examiner shall select Task E and one other Task`
-## *Task A: Human Behavior and Effective Communication*
+## **Task A: Human Behavior and Effective Communication**
 Objective: To determine that the applicant exhibits instructional knowledge of human behavior and effective communication and how these impact effective learning by describing:
 1. Definitions of human behavior
 2. Human needs and motivation
@@ -35,12 +35,13 @@ Objective: To determine that the applicant exhibits instructional knowledge of h
 5. Basic elements of communication
 6. Barriers to effective communication
 7. Developing communication skills
-## *Task B: The Learning Process*
-## *Task C: The Teaching Process*
-## *Task D: Assessment and Critique*
-## *Task E: Instructor Responsibilities and Professionalism* (REQUIRED) 
-## *Task F: Techniques of Flight Instruction*
-## *Task G: Risk Management*
+
+## **Task B: The Learning Process**
+## **Task C: The Teaching Process**
+## **Task D: Assessment and Critique**
+## **Task E: Instructor Responsibilities and Professionalism (REQUIRED)** 
+## **Task F: Techniques of Flight Instruction**
+## **Task G: Risk Management**
 
 # II. Technical Subject Areas
 ` Note: The examiner must select Tasks B, M, and at least one other Task`
